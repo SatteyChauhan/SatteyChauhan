@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Satyakar-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Satyakar-yellow)](https://stackoverflow.com/users/19612270/satteychauhan)
 
-I am doing full stack web development programme in Edureka.
+I am doing full stack web development program in Edureka.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/SatteyChauhan/count.svg)
